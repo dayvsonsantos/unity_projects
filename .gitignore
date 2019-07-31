@@ -1,5 +1,4 @@
 # Folders
-*.DS_Store/
 */.vs/
 */obj/
 
@@ -9,3 +8,4 @@
 *.tmp
 *.meta
 *.userprefs
+*.DS_Store
