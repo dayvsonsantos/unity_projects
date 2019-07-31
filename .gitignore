@@ -1,0 +1,11 @@
+# Folders
+.DS_Store/
+*/.vs/
+*/obj/
+
+# Files
+*.csproj
+*.sln
+*.tmp
+*.meta
+*.userprefs
