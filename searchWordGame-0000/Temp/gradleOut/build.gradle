@@ -53,7 +53,7 @@ android {
     }
 
     aaptOptions {
-        noCompress = ['.unity3d', '.ress', '.resource', '.obb']
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', 'commonwords.txt', 'new_words.txt', 'words.txt']
         ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
     }
 
