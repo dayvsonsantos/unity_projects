@@ -19,7 +19,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/GameScene.unity:
+    Assets/searchWordGame/searchWordScenes/GameScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -763,5 +763,5 @@ ScriptsOnlyBuild:
     className: time
   platform: 13
   scenePathNames:
-  - Assets/Scenes/GameScene.unity
+  - Assets/searchWordGame/searchWordScenes/GameScene.unity
   playerPath: /Users/dayvson/Desktop/unityProjects/searchWordGame-0000/swg-0000.apk
