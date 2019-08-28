@@ -23,8 +23,7 @@ public class InputController : MonoBehaviour {
 			{
 				game.HandleTouchMove (touch.position);
 			}
-			
-			
+
 			game.HandleTouchMove (touch.position);	
 			
 			return;

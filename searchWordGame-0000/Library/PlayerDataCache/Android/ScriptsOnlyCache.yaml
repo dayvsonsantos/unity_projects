@@ -764,4 +764,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/searchWordGame/searchWordScenes/GameScene.unity
-  playerPath: /Users/dayvson/Desktop/unityProjects/searchWordGame-0000/swg-0000.apk
+  playerPath: /Users/dayvson/Desktop/unityProjects/searchWordGame-0000/swg-000.apk
